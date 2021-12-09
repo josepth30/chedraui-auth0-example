@@ -1,0 +1,6 @@
+{
+  "domain": "tec360cloud.us.auth0.com",
+  "clientId": "YTHIg39dSgx3DPNoCV63w6lLtn6mSgtp",
+  "audience": "https://icecream.com/api",
+  "scopes": "openid profile email read:profile"
+}
